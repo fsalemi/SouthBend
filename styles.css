@@ -1,0 +1,100 @@
+#img-id{
+  position: fixed;
+  right: 10px;
+  top: 5px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+#my-font{
+  font-family: "Open Sans";
+}
+
+body {
+  font-family: "Open Sans";
+}
+
+  h1 {
+            margin-top: 0in;
+            margin-right: 0in;
+            margin-bottom: 10.0pt;
+            margin-left: 0in;
+            background: #4472C4;
+            font-size: 14.0pt;
+            font-family: "Open Sans";
+            color: white;
+            font-weight: normal;
+        }
+
+        h2 {
+            margin-top: 10.0pt;
+            margin-right: 0in;
+            margin-bottom: 3.0pt;
+            margin-left: 0in;
+            font-size: 17.0pt;
+            font-family: "Open Sans";
+            color: #4472C4;
+            font-style: italic;
+        }
+
+        h3 {
+            margin-top: 10.0pt;
+            margin-right: 0in;
+            margin-bottom: 5.0pt;
+            margin-left: 0in;
+            font-size: 18.0pt;
+            font-family: "Helvetica";
+            color: #100701;
+            letter-spacing: 0pt;
+          /*  font-weight: bold;*/
+            font-variant: normal;
+
+
+        }
+
+        h4 {
+            margin-top: 10.0pt;
+            margin-right: 0in;
+            margin-bottom: 5.0pt;
+            margin-left: 0in;
+            font-size: 12.0pt;
+            font-family: "Open Sans";
+            color: #2F5496;
+        }
+
+        h5 {
+            margin-top: 10.0pt;
+            margin-right: 0in;
+            margin-bottom: 5.0pt;
+            margin-left: 0in;
+            font-size: 11.0pt;
+            font-family: "Open Sans";
+            color: #C45911;
+            text-transform: uppercase;
+            font-weight: normal;
+        }
+
+        h6 {
+            margin-top: 10.0pt;
+            margin-right: 0in;
+            margin-bottom: 5.0pt;
+            margin-left: 0in;
+            font-size: 11.0pt;
+            font-family: "Open Sans";
+            color: #2F5496;
+            font-weight: normal;
+        }
+
+ol li {
+  margin-bottom: 12pt;
+}
+
+img {
+  margin: 0px 10px 10px 10px;
+}
+
+/* Invert color of active tab */
+.navbar-default .navbar-nav > .active > a:focus {
+           background-color: #FFF;
+           color: #000;
+        }

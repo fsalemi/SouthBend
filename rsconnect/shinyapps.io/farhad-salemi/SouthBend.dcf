@@ -1,0 +1,13 @@
+name: SouthBend
+title: SouthBend
+username:
+account: farhad-salemi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1600722
+bundleId: 3177028
+url: https://farhad-salemi.shinyapps.io/SouthBend/
+when: 1590110751.8212
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.zip|Files.zip

@@ -1,0 +1,63 @@
+Park_Name,Park_Type,Zip_Code,Aqua_Feat__Pool,Aqua_Feat__Spray,Backstop__Practice,Ballfield,Basketball,Blueway,Complex__Ballfield,Complex__Tennis,Concessions,Disk_Golf,Driving_Range,Educational_Experience,Event_Space,Fitness_Course,Garden__Community,Garden__Display,Golf,Hockey__Ice,Loop_Walk,MP_Field__Large,MP_Field__Multiple,MP_Field__Small,Multiuse_Court,Natural_Area,Open_Turf,Open_Water,Other___Active,Other_Passive,Passive_Node,Picnic_Grounds,Playground__Destination,Playground__Local,Public_Art,Shelter,Shelter__Group,Skate_Park,Sledding_Hill,Structure,Tennis,Trail__Primitive,Volleyball,Water_Access__Developed,Water_Access__General,Water_Feature,Address,Lat,Lon
+Viewing Park,Neighborhood Park,46617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,2,,,"900 Northside Blvd, South Bend, Indiana 46617",41.6674918720005,-86.2363446469997
+Potawatomi Zoo,Zoo,46615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"500 South Greenlawn Avenue, South Bend, Indiana 46615",41.6712716070005,-86.2207712009996
+Vassar Park,Neighborhood Park,46616,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,"1100 Sherman Avenue, South Bend, Indiana 46616",41.6894837530005,-86.2649324279997
+Kennedy Park,Community Park,46628,1,,,1,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,"2700 Westmoor Street, South Bend, Indiana 46628",41.6846746480005,-86.2883858329997
+East Race Trail,Special,46617,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,4,,,,,,,,,,,,,,1,,"935 Niles, South Bend, Indiana 46617",41.6841137480005,-86.2364985169997
+Fredrickson Park,Neighborhood Park,46617,,,,,,,,,,,,1,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,"1330 South Bend Avenue, South Bend, Indiana 46617",41.6905863180005,-86.2301473389996
+Jon Hunt Memorial Plaza,Memorial,46601,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,1,,,,,,,,,,,1,"214 Michigan Street, South Bend, Indiana 46601",41.6783106840005,-86.2504509539997
+Potawatomi Park,Community Park,46615,1,,,1,,,,,,,,1,1,,1,2,,,3,1,,,,,1,,,,,12,2,,,,3,,,2,,,,,,,"2000 Wall Street, South Bend, Indiana 46615",41.6675365100005,-86.2179095949996
+O'Brien Park,Neighborhood Park,46614,,1,,,,,,,,,,,,,,,,,,2,,,,1,1,1,,,,,,1,,2,,1,,,,,,,,,"321 Walter Street, South Bend, Indiana 46614",41.6310119820005,-86.2468788709996
+Fremont Park,Block Park,46628,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,1,,,1,,,,,,,,,,"1800 North Fremont Street, South Bend, Indiana 46628",41.6993638400005,-86.2849723149997
+Shetterley Park,Block Park,46616,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,,,,,,,,,,,,,,,1,,"1044 Riverside Drive, South Bend, Indiana 46616",41.6890971590005,-86.2596479009997
+Kelly Park,Block Park,46617,,,,,0.5,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,1,,,,,,,,,,"718 Howard Street, South Bend, Indiana 46617",41.6884330280001,-86.240575441
+Martin Luther King Jr.,Neighborhood Park,46628,,1,,1,4,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,,,,"1522 W. Linden Avenue, South Bend, Indiana 46628",41.679383204,-86.274170845
+Ponader Park,Neighborhood Park,46635,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,"54054 Maple Lane Avenue, South Bend, Indiana 46635",41.7086707510001,-86.2138638709999
+Riverside Park,Neighborhood Park,46628,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,1,1,,,,,,,,,,,,1,,,"3840 Riverside Drive, South Bend, Indiana 46628",41.727347272,-86.269300363
+Rum Village Annex,Community Park,46614,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,,,"2700 Gertrude St, South Bend, Indiana 46614",41.6468285870001,-86.273117004
+Northside Blvd. Riverwalk,Community Park,46617,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,"1350 Northside Blvd, South Bend, Indiana 46617",41.6613395850005,-86.2291250939996
+City Cemetery,Cemetery,46616,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,"214 Elm Street, South Bend, Indiana 46616",41.6776649860005,-86.2677648919997
+Westhaven Park,Block Park,46628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,2,,,,,,"1220 Sussex Drive, South Bend, Indiana 46628",41.6904709370005,-86.3059905639997
+Gwen Stiver Memorial Park,Block Park,46601,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,,,,1,,,"230 Michigan Street, South Bend, Indiana 46601",41.6740207370005,-86.2503000039997
+Studebaker Golf Course,Golf Course,46613,,,,,,,,,,,,,,,,,0.5,,,,,,,,,,,,,,,,,,,,,,,,,,,,"718 Calvert Street, South Bend, Indiana 46613",41.6541166300005,-86.2596433849997
+Erskine Golf Course,Golf Course,46614,,,,,,,,,,,,,,,,,1,,,,,,,,,1,,,,,,,,,,,1,1,,,,,,,"4200 Miami Road, South Bend, Indiana 46614",41.6323767620005,-86.2347458889997
+Belleville Park,Community Park,46619,,,,7,2,,1,,1,,,,,,,,,,,,,,,,,,,,,,1,,,,1,,,,2,,,,,,"1300 S. Mayflower Road, South Bend, Indiana 46619",41.6600322600005,-86.3219828029997
+Blackthorn Golf Course,Golf Course,46628,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,"6100 Nimtz Parkway, South Bend, Indiana 46628",41.7225437710005,-86.3340657749997
+Ryer Mini Park,Block Park,46628,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,"1565 Ryer St. &nbsp;, South Bend, Indiana 46628",41.7080112780005,-86.3076957779996
+Bowman Cemetery,Cemetery,46613,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,"1700 S. Miami Street, South Bend, Indiana 46613",41.6577732820001,-86.234952054
+LaSalle Landing Park,Block Park,46619,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,,"2800 Portage, South Bend, Indiana 46619",41.668178852,-86.32130868
+LaSalle Park,Community Park,46619,,1,1,,2,,,,,,,,,,,,,,1,1,,,,,1,1,,,,,1,2,,,2,,,1,2,,,,,,"3419 W. Washington, South Bend, Indiana 46619",41.6756091460001,-86.295585806
+Leeper Park,Community Park,46616,,,,,,,,1,,,,1,1,,,2,,,,1,,,,,1,2,,,1,,,2,,1,,,,,15,,,,1,,"820 N. Michigan St., South Bend, Indiana 46616",41.6853021150001,-86.250494244
+Marshall Park,Neighborhood Park,46614,,,,2,,,,,,,,,,,,,,,,2,,,,,,,,,,,,1,,,,,,,4,,,,,,"3725 Springbrook, South Bend, Indiana 46614",41.6366607530001,-86.223109605
+Muessel Grove Park,Neighborhood Park,46628,,,,2,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,1,,,,,,,,,,,"1200 Wilbur Street, South Bend, Indiana 46628",41.690942023,-86.273983159
+Rum Village Park,Community Park,46614,,,,,,,,,,1,,,,,,,,,,,,,,1,,,,1,,,1,,,,4,,,1,,,,,,,"2700 Gertrude St, South Bend, Indiana 46614",41.6468285870001,-86.273117004
+Brownfield Park,Block Park,46616,,,1,,0.5,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,,,,,,,,,,"1022 Angela Blvd, South Bend, Indiana 46616",41.6932316600005,-86.2644975459997
+Elbel Golf Course,Golf Course,46628,,,,,,,,,,,1,,,,,,1,,,,,,,,,2,,,,,,,,,,,,1,,,,,,,"26595 Auten Road, South Bend, Indiana 46628",41.7445257930005,-86.3830327709997
+Booth Tarkington,Neighborhood Park,46635,,,,1,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,"1722 Rerick Drive, South Bend, Indiana 46635",41.6987123030005,-86.2019078659997
+Boehm Park,Community Park,46617,,,,2,2,,,,,,,,,,,,,,,,5,,,,,,,,,1,,2,,,1,,,,4,,,,,,"3205 Edison Road, South Bend, Indiana 46617",41.694669059,-86.202794812
+Boland Park,Community Park,46628,,,,2,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,1,,,,2,,,,,,"3000 Bendix, South Bend, Indiana 46628",41.708009518,-86.307769642
+Coquillard Park,Neighborhood Park,46617,,1,,,0.5,,,,,,,,,,,,,,,,,,,,1,,,,,,,2,,,1,,,,2,,,,,,"1300 Campaeu, South Bend, Indiana 46617",41.6859822590001,-86.230816512
+East Race Waterway,Community Park,46617,,,,,,1,,,,,,1,1,1,,,,,1,,,,,,,,1,,,1,,,,,,,,,,,,,,,"126 N. Niles, South Bend, Indiana 46617",41.677401279,-86.244323289
+Edison Park,Neighborhood Park,46615,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,2,,,,,,"2400 Rockne Dr, South Bend, Indiana 46615",41.6893208130001,-86.2133815619999
+Helman Mini Park,Block Park,46615,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,"1118 Helmen, South Bend, Indiana 46615",41.6898799030001,-86.20093431
+Keller Park,Neighborhood Park,46616,,,,1,,,,,,,,,,,,,,,,,,,,1,,,,,,,,1,,,1,,,,4,,,,1,,"1935 Riverside Drive, South Bend, Indiana 46616",41.7027801350001,-86.260425861
+Nokomis Park,Block Park,46617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,"310 Wakewa, South Bend, Indiana 46617",41.6900532720001,-86.254169432
+Parkovash Park,Block Park,46617,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,"215 Parkovash Avenue, South Bend, Indiana 46617",41.692074377,-86.252747003
+Pier Park,Block Park,46601,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,1,,,,,,,,,,,,2,,,"124 N. St. Joseph Street, South Bend, Indiana 46601",41.6767998970001,-86.248729278
+Seitz Park,Block Park,46601,,,,,,,,,,,,1,1,,,,,,,,,,,,,1,,,,1,,,,1,,,,,,,,1,,,"340 E. Colfax, South Bend, Indiana 46601",41.677774234,-86.249768012
+Veteran's Memorial Park,Neighborhood Park,46615,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,,,,,,,,"1501 Northside Blvd, South Bend, Indiana 46615",41.6602624860001,-86.225342337
+Howard Park,Neighborhood Park,46617,,,,,,,,,,,,1,,,,,,1,1,,,,,,1,1,,,4,1,1,,1,,,,,,,,,1,,,"219 S. St. Louis Blvd, South Bend, Indiana 46617",41.6785593220001,-86.241436823
+Pinhook Park,Community Park,46616,,,,,,,,,,,,,,,,1,,,,,,,,,1,1,,,,,,1,,,,,,,,,,,1,,"2801 Riverside Drive, South Bend, Indiana 46616",41.713873929,-86.2712031899999
+Plaza Park,Neighborhood Park,46601,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,1,,,"400 Columbia Street, South Bend, Indiana 46601",41.6719797110001,-86.245725684
+Pulaski Park,Neighborhood Park,46619,,,,,2,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,,,,,,,"1308 Huron, South Bend, Indiana 46619",41.6701835150001,-86.270118686
+Randolph Mini Park,Neighborhood Park,46613,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,1,,,,,,,,,,,,,"1809 Randolph Street, South Bend, Indiana 46613",41.6558582180001,-86.22014035
+Ravina Park,Block Park,46613,,,,,0.5,,,,,,,,,,1,,,,,,,,,1,,,,,,1,,1,,,,,,,,,,,,,"1522 Lebanon St., South Bend, Indiana 46613",41.659412129,-86.2381902019999
+River Manor Park,Neighborhood Park,46628,,,,,0.5,,,,,,,,,,1,,,,,,,,,,1,,,,,,,1,,,,,1,,2,,,,,,"3811 Glenview Dr., South Bend, Indiana 46628",41.727566487,-86.273642282
+Sorin Mini Park,Block Park,46615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,"3366 Sorin Street, South Bend, Indiana 46615",41.684633445,-86.2007712939999
+Southeast Neighborhood Park,Neighborhood Park,46601,,1,1,,1,,,,,,,,,,,,,,1,1,,,1,,1,,,,,,,1,,,2,,,,,,,,,,"503 Wenger Street, South Bend, Indiana 46601",41.6625875440001,-86.243581219
+Four Winds Field,Community Park,46601,,,,1,,,,,1,,,,1,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,"301 W. South St., South Bend, Indiana 46601",41.6695983080001,-86.2535800649999
+Voorde Park,Neighborhood Park,46628,,,,,1,,,,,,,,,,,,,,,1,,,,,,,,,,,,1,,,,,,,2,,,,,,"3433 Keller St., South Bend, Indiana 46628",41.697308396,-86.297653934
+Walker Field Park,Neighborhood Park,46613,,,,1,1,,,,,,,,,,,,,,,1,,,,,1,,,,,,,1,,,1,,,,4,,,,,,"2212 S. Walnut Street, South Bend, Indiana 46613",41.6510886820001,-86.270718538
+Woodlawn Park,Neighborhood Park,46616,,,,,,,,,,,,,,,,,,,,,,,,1,,1,,,2,,,,,,,,,,,,,,1,,"2166 Riverside Drive, South Bend, Indiana 46616",41.7057429590001,-86.267954459
+Lincoln Plaza Mini Park,Block Park,46628,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1601 Ryer St., South Bend, Indiana 46628",41.6960662490001,-86.297281663
+Newman Recreation Center,Neighborhood Park,46615,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"727 S. Eddy St., South Bend, Indiana 46615",41.685080085,-86.235376973

@@ -1,0 +1,13 @@
+name: Github_Files
+title: Github_Files
+username:
+account: farhad-salemi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1600386
+bundleId: 2668583
+url: https://farhad-salemi.shinyapps.io/Github_Files/
+when: 1576378710.25214
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: app.zip|appFarhad.R|Files.zip
